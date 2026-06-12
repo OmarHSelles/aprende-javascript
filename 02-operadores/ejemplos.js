@@ -8,3 +8,17 @@ console.log(`Resta: ${num1 - num2}`);
 console.log(`Multiplicación: ${num1 * num2}`);
 console.log(`División: ${num1 / num2}`);
 console.log(`Resto: ${num1 % num2}`);
+
+let puntos = 10;
+
+puntos += 5;
+console.log(`Puntos: ${puntos}`);
+
+puntos -= 3;
+console.log(`Puntos: ${puntos}`);
+
+puntos *= 2;
+console.log(`Puntos: ${puntos}`);
+
+puntos /= 4;
+console.log(`Puntos: ${puntos}`);
